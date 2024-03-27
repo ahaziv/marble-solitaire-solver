@@ -25,8 +25,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![hull images]([https://github.com/ahaziv/marble-solitaire-solver/blob/marble-solitaire/marble_solitaire_img.JPG])
-* PCL samples provided by: http://graphics.stanford.edu/data/3Dscanrep/
+![image samples](https://github.com/ahaziv/marble-solitaire-solver/blob/marble-solitaire/marble_solitaire_img.JPG)
 
 Ever been annoid by this game? Look no further.
 
