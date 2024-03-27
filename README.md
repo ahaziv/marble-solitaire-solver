@@ -11,10 +11,10 @@
 <br />
 <div align="center">
 
-  <h3 align="center">3D Quickhull</h3>
+  <h3 align="center">Marbel Solitaire Solver</h3>
 
   <p align="center">
-    An implementation of the quickhull algorithm for 3D
+    A brute force solver for this wooden game
     <br />
     <a href="https://github.com/ahaziv/marble-solitaire"><strong>Explore the docs »</strong></a>
     <br />
@@ -25,10 +25,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![hull images]([https://github.com/ahaziv/marble-solitaire-solver/blob/marble-solitaire/marble_solitaire_image.png])
+![hull images]([https://github.com/ahaziv/marble-solitaire-solver/blob/marble-solitaire/marble_solitaire_img.JPG])
 * PCL samples provided by: http://graphics.stanford.edu/data/3Dscanrep/
 
-An educational project to understand the quick hull algorithm.
+Ever been annoid by this game? Look no further.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
