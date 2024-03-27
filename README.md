@@ -16,7 +16,7 @@
   <p align="center">
     An implementation of the quickhull algorithm for 3D
     <br />
-    <a href="https://github.com/ahaziv/quick-hull-3d"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ahaziv/marble-solitaire"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
@@ -25,7 +25,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![hull images](https://github.com/ahaziv/quick-hull-3d/blob/master/hull_images.PNG)
+![hull images]([https://github.com/ahaziv/marble-solitaire-solver/blob/marble-solitaire/marble_solitaire_image.png])
 * PCL samples provided by: http://graphics.stanford.edu/data/3Dscanrep/
 
 An educational project to understand the quick hull algorithm.
@@ -36,7 +36,7 @@ An educational project to understand the quick hull algorithm.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-After cloning I recommend downoading some models from: [https://graphics.stanford.edu/data/3Dscanrep/](http://graphics.stanford.edu/data/3Dscanrep/) and trying the code out.
+Edit your board in the main section, turn solution loading off and run, solution may take several minutes.
 
 
 <!-- CONTACT -->
@@ -44,7 +44,7 @@ After cloning I recommend downoading some models from: [https://graphics.stanfor
 
 [@ziv_aharoni](https://www.linkedin.com/in/ziv-aharoni-3909271b0/) - ahaziv@gmail.com
 
-[https://github.com/ahaziv/snake-cube-puzzle-solver](https://github.com/ahaziv/quick-hull-3d)
+[https://github.com/ahaziv/snake-cube-puzzle-solver](https://github.com/ahaziv/marble-solitaire)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
